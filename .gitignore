@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local debug artifacts
+debug_frame.jpg
+debug_frame_boosted.jpg
+
+# Android generated/local files
+tinklet_android_mjpeg/.gradle/
+tinklet_android_mjpeg/build/
+tinklet_android_mjpeg/app/build/
+tinklet_android_mjpeg/.idea/
+tinklet_android_mjpeg/local.properties
