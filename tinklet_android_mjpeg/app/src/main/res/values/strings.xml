@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinkletMJPEG</string>
+    <string name="endpoint_template">Stream endpoint: %1$s</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+</resources>
